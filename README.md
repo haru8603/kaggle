@@ -1,1 +1,1 @@
-# kaggle
+# Kaggle Titanic Tutorial codes
